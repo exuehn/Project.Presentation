@@ -48,7 +48,7 @@ What will it look like? Include an example of the style.
 It would look very 1990s, old webpage designs.
 Very old school vibes, bright colours that doesn't go well together.
 
-![Example 1](webpage1.png)
+![Example 1](Images/webpage1.png)
 
 # Technology 
 
