@@ -48,6 +48,8 @@ Possibly some code on Javascript to use the event listener code but I am still e
 
 # Wireframes 
 
-![Title of the image](image.jpg)
-![Title of another image](image.jpg)
-
+![Wireframe 1](Images/wireframe1.png)
+![Wireframe 2](Images/wireframe2.png)
+![Wireframe 3](Images/wireframe3.png)
+![Wireframe 4](Images/wireframe4.png)
+![Wireframe 5](Images/wireframe5.png)
