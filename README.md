@@ -35,7 +35,7 @@ Remembering how we felt when we first accessed technology and interfaces where w
 # Aesthetics
 
 It would look very 1990s, old webpage designs.
-Very old school vibes, bright colours that doesn't go well together.
+Very old school vibes, bright colours that doesn't go well together, lots of font highlights.
 
 ![Example 1](Images/webpage1.png)
 ![Example 2](Images/webpage2.png)
@@ -43,7 +43,8 @@ Very old school vibes, bright colours that doesn't go well together.
 
 # Technology  
 
-Creating the game on p5.js and using CSS to style the game.
+Creating the game on p5.js and using CSS to style the game. 
+Possibly some code on Javascript to use the event listener code but I am still experimenting that part. 
 
 # Wireframes 
 
