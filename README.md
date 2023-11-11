@@ -1,13 +1,8 @@
-# Not what you can think of
-
-Description of the project (one or two sentences which introduce your project).
+# Not What You Think Of
 
 A website that you will not know how it is going to turn out.
 
 # Theme  
-
-Explain topic or ideas are you exploring through a subverted/expanded 
-interface paradigm. Highlight any references or sources of inspiration. 
 
 Defamiliarisation
 We have been relying on tools and shortcuts to easily access interfaces. 
@@ -26,15 +21,11 @@ Inspirations
 
 # Mechanics  
 
-Explanation of the how users experience or interact with your project.
-
 There will be a simple website, where users are able to interact with it.
 There will be a few tasks or levels where you have to complete under the difficult circumstances they are in.
 This could be working with an inverted mouse, keyboard keys are messed up, cursor constantly changing positions.
 
 # Aims  
-
-Any objectives, goals, or idea you want the user or viewer to enage with. 
 
 Main objective is to make the user uncomfortable when dealing with the website.
 To feel like using an interface is foreign and difficult.
@@ -42,8 +33,6 @@ Knowing that we are so used to what we are using, and question why are interface
 Remembering how we felt when we first accessed technology and interfaces where we had to adjust the way we think or move 
 
 # Aesthetics
-
-What will it look like? Include an example of the style.
 
 It would look very 1990s, old webpage designs.
 Very old school vibes, bright colours that doesn't go well together.
@@ -60,28 +49,8 @@ video, desktop documentary, slideshow, other, or a combination of this list.
 
 
 
-# Group  
-If a group project, clearly define everyone’s role/duties, 
-and provide greater detail of your own role. 
-
 # Wireframes 
 
 ![Title of the image](image.jpg)
 ![Title of another image](image.jpg)
 
-
-# Random Ideas
-
-Which came first? Video Editing or Electronic Presentation.
-
-Unfamiliarise ourselves with the software we are used to and using it the way it was meant to be. By exploring other means of doing it, we may realise some of the functions that we never explored or used.
-
-social/political relations, how it affected how things are produced or turn out
-
-how it is mediating 
-
-reworking and denormalising
-
-exploring the notion between something and technology
-
-theme of control, power, 
