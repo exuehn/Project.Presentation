@@ -1,6 +1,6 @@
 # Not What You Think Of
 
-A website that you will not know how it is going to turn out.
+A website looking game that you will not know how it is going to turn out.
 
 # Theme  
 
@@ -30,7 +30,7 @@ This could be working with an inverted mouse, keyboard keys are messed up, curso
 Main objective is to make the user uncomfortable when dealing with the website.
 To feel like using an interface is foreign and difficult.
 Knowing that we are so used to what we are using, and question why are interfaces build the 'normal' way that we all use.
-Remembering how we felt when we first accessed technology and interfaces where we had to adjust the way we think or move 
+Remembering how we felt when we first accessed technology and interfaces where we had to adjust the way we think or move.
 
 # Aesthetics
 
@@ -41,13 +41,9 @@ Very old school vibes, bright colours that doesn't go well together.
 ![Example 2](Images/webpage2.png)
 ![Example 3](Images/webpage3.jpeg)
 
-# Technology 
+# Technology  
 
-Explain how you will you make your prototype, such as using p5.js, 
-slideshow, commandline, physical interface, spreadsheet, 
-video, desktop documentary, slideshow, other, or a combination of this list. 
-
-
+Creating the game on p5.js and using CSS to style the game.
 
 # Wireframes 
 
