@@ -5,12 +5,14 @@ A website looking game that you will not know how it is going to turn out.
 # Theme  
 
 Defamiliarisation
+
 We have been relying on tools and shortcuts to easily access interfaces. 
 Already the muscle memory embeded whenever we interact with an interface.
 How we know we can use the mouse to direct ourselves through a website, using the keyboard to input information, copying and pasting using CTRL+C and CTRL+V.
 Going to explore how we can change the norm of interacting an interface.
 
 Power and Control
+
 Website designers always have the power to lead you to do what they want you to.
 For example, they would emphasise the 'BUY NOW' button so that you'll unconsiously willing to press on the highlighted button.
 Now that I can code and control what the users are able to access and use, I want to mess up what the users would normally do or to make the website not make sense.
