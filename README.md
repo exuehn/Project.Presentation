@@ -48,7 +48,6 @@ Very old school vibes, bright colours that doesn't go well together, lots of fon
 # Technology  
 
 Creating the game on p5.js and using CSS to style the game. 
-Possibly some code on Javascript to use the event listener code but I am still experimenting that part. 
 
 # Wireframes 
 
