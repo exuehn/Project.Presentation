@@ -17,6 +17,8 @@ Now that I can code and control what the users are able to access and use, I wan
 
 Inspirations
 
+From the reading on Interfaces.
+"Other net and software artists have demonstrated how audiovisual computer control languages (user interfaces) can be a playground for subjective, ironical, and epistemological disruptions, experiments, and critique. These interventions become all the more important the more the deliberate separation between “user” and “programming” interfaces and languages is maintained."
 
 
 # Mechanics  
